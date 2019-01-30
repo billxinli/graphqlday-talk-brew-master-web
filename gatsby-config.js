@@ -40,7 +40,7 @@ module.exports = {
         // This is field under which it's accessible
         fieldName: 'gateway',
         // Url to query from
-        url: 'http://localhost:3000/graphql',
+        url: 'https://brew-master-graphql.herokuapp.com/graphql',
       },
     },
   ],
