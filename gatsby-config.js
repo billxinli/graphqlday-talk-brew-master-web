@@ -20,6 +20,9 @@
 // }
 
 module.exports = {
+  siteMetadata: {
+    title: 'Bill\'s Tea Shop',
+  },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
     // 'gatsby-transformer-remark',
